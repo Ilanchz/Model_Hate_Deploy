@@ -1,4 +1,3 @@
-import tensorflow as tf
 from flask import Flask, request, jsonify
 import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
